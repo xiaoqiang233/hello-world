@@ -1,0 +1,3 @@
+hello
+another line of new.txt
+test test
